@@ -1,0 +1,44 @@
+.left-navbar {
+      height: 150vh;
+      background-color: #4723d9;
+      z-index: 999;
+      position: fixed;
+      color: white;
+      font-weight: 500;
+      font-size: 15px;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+      .left-navar-small-font {
+            font-size: 13px;
+            margin-left:-1em;
+      }
+      .left-navbar-image{
+            width: 18px;
+            margin-left:-1em;
+
+      }
+      .log-out-mobile{
+            margin-top:-1em;
+      }
+      .header-item{
+            margin-top:0.5em;
+      }
+}
+
+@media only screen and (min-width: 601px) {
+      .left-navar-small-font {
+            font-size: 1.5vw;
+      }
+      .left-navbar-image{
+            width: 35px;
+      }
+
+      .header-item{
+            margin-top:2em;
+      }
+}
+
+

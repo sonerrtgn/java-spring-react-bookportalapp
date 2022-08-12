@@ -1,0 +1,83 @@
+Date : 2022-08-11 11:45:36
+Directory : c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src
+Total : 43 files,  2136 codes, 145 comments, 631 blanks, all 2912 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         42 |      2,124 |        145 |        630 |      2,899 |
+| CSS        |          1 |         12 |          0 |          1 |         13 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                          | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                             |         43 |      2,136 |        145 |        631 |      2,912 |
+| Service                                                                                                                       |          5 |        519 |         24 |         89 |        632 |
+| components                                                                                                                    |          4 |        103 |          2 |         34 |        139 |
+| config                                                                                                                        |          1 |         23 |          2 |          4 |         29 |
+| pages                                                                                                                         |         31 |      1,433 |         62 |        482 |      1,977 |
+| pages\admin                                                                                                                   |         20 |        964 |         43 |        319 |      1,326 |
+| pages\admin\add-author                                                                                                        |          2 |         58 |          2 |         19 |         79 |
+| pages\admin\add-book                                                                                                          |          2 |         83 |          0 |         23 |        106 |
+| pages\admin\add-user                                                                                                          |          2 |         71 |          0 |         23 |         94 |
+| pages\admin\author-management                                                                                                 |          4 |        211 |         13 |         71 |        295 |
+| pages\admin\book-management                                                                                                   |          5 |        272 |         14 |         87 |        373 |
+| pages\admin\user-management                                                                                                   |          4 |        240 |         14 |         84 |        338 |
+| pages\user                                                                                                                    |          8 |        311 |         17 |        119 |        447 |
+| pages\user\BookManagament                                                                                                     |          4 |        161 |         15 |         66 |        242 |
+| pages\user\favorite-list                                                                                                      |          1 |         55 |          1 |         19 |         75 |
+| pages\user\reading-list                                                                                                       |          1 |         55 |          0 |         19 |         74 |
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                      | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\App.js                                            | JavaScript |         51 |         55 |         17 |        123 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\Service\AuthService.js                            | JavaScript |         25 |          1 |          7 |         33 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\Service\AuthorService.js                          | JavaScript |        119 |          5 |         19 |        143 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\Service\BookService.js                            | JavaScript |        100 |          5 |         16 |        121 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\Service\LocalStorageService.js                    | JavaScript |         20 |          0 |          6 |         26 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\Service\UserService.js                            | JavaScript |        255 |         13 |         41 |        309 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\components\HeaderAdmin.css                        | CSS        |         12 |          0 |          1 |         13 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\components\HeaderAdmin.js                         | JavaScript |         37 |          1 |         14 |         52 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\components\HeaderItem.js                          | JavaScript |         20 |          0 |          5 |         25 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\components\HeaderUser.js                          | JavaScript |         34 |          1 |         14 |         49 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\config\AxiosConfig.js                             | JavaScript |         23 |          2 |          4 |         29 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\index.js                                          | JavaScript |          7 |          0 |          5 |         12 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\Home.js                                     | JavaScript |         24 |          0 |         11 |         35 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\Login.js                                    | JavaScript |         55 |          1 |         11 |         67 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\Signin.js                                   | JavaScript |         79 |          1 |         22 |        102 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\AdminApp.js                           | JavaScript |         29 |          0 |         12 |         41 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\add-author\AddAuthor.js               | JavaScript |         22 |          1 |          7 |         30 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\add-author\AddAuthorCard.js           | JavaScript |         36 |          1 |         12 |         49 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\add-book\AddBook.js                   | JavaScript |         27 |          0 |          7 |         34 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\add-book\AddBookCard.js               | JavaScript |         56 |          0 |         16 |         72 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\add-user\AddUser.js                   | JavaScript |         19 |          0 |          7 |         26 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\add-user\AddUserCard.js               | JavaScript |         52 |          0 |         16 |         68 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\author-management\Author.js           | JavaScript |         70 |         12 |         26 |        108 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\author-management\AuthorFilter.js     | JavaScript |         25 |          0 |          6 |         31 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\author-management\AuthorList.js       | JavaScript |         16 |          0 |          8 |         24 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\author-management\AuthorManagement.js | JavaScript |        100 |          1 |         31 |        132 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\book-management\AddBook.js            | JavaScript |         38 |          0 |         12 |         50 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\book-management\Book.js               | JavaScript |         95 |         12 |         29 |        136 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\book-management\BookFilter.js         | JavaScript |         24 |          0 |         12 |         36 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\book-management\BookList.js           | JavaScript |         16 |          0 |          8 |         24 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\book-management\BookManagement.js     | JavaScript |         99 |          2 |         26 |        127 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\user-management\User.js               | JavaScript |         53 |         13 |         25 |         91 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\user-management\UserFilter.js         | JavaScript |         24 |          0 |          9 |         33 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\user-management\UserList.js           | JavaScript |         17 |          0 |          7 |         24 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\admin\user-management\UserManagement.js     | JavaScript |        146 |          1 |         43 |        190 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\user\BookItem.js                            | JavaScript |         17 |          1 |          5 |         23 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\user\BookManagament\Book.js                 | JavaScript |         49 |         12 |         26 |         87 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\user\BookManagament\BookFilter.js           | JavaScript |         25 |          0 |          6 |         31 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\user\BookManagament\BookList.js             | JavaScript |         16 |          0 |          8 |         24 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\user\BookManagament\BookManagement.js       | JavaScript |         71 |          3 |         26 |        100 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\user\UserApp.js                             | JavaScript |         23 |          0 |         10 |         33 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\user\favorite-list\FavoriteList.js          | JavaScript |         55 |          1 |         19 |         75 |
+| c:\Users\soner\Desktop\javaProjexts\soner.tugan\bookportalFrontEndReact\src\pages\user\reading-list\ReadingList.js            | JavaScript |         55 |          0 |         19 |         74 |
+| Total                                                                                                                         |            |      2,136 |        145 |        631 |      2,912 |
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
