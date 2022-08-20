@@ -18,7 +18,7 @@
 
 
 Tecnologies list
-| Plugin | For what |
+| Technologies | For what |
 | ------ | ------ |
 | Java | For backend programing|
 | Spring  | For backend security,Orm, Rest Services vs... |
